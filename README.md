@@ -13,4 +13,6 @@ In this project, I've meticulously crafted a dynamic dataset designed to empower
 
 - **User-Friendly:** Making changes to the dataset is a breeze. The user-friendly data frame structure ensures that anyone, regardless of their technical background, can effortlessly update and refine the data.
 
-Python Notebook- 
+[Python Notebook](https://github.com/khushiyadav2022/Limit-Analysis/blob/a839a14ef1ccd256ce9876c329cb4feab20fa2e8/Limit_Analysis_Demo.ipynb)
+
+[Dataset]()
